@@ -1,0 +1,14 @@
+{
+  "name": "learning-p5js",
+  "version": "1.0.0",
+  "description": "Learning p5js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laikos38 - Francisco Maurino",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^1.4.0"
+  }
+}
